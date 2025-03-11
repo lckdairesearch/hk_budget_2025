@@ -1,0 +1,252 @@
+﻿Head,Account,Type,Sub-head (Code),Sub-head,ExpenditureComponent
+22,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+22,Capital Account,"Plant, Equipment and Works",603,"Plant, vehicles and equipment",Departmental Expenses
+22,Capital Account,"Plant, Equipment and Works",609,Minor irrigation works in the New Territories (block vote),Departmental Expenses
+22,Capital Account,"Plant, Equipment and Works",610,Minor recreational facilities and roadworks in country parks (block vote),Departmental Expenses
+22,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+23,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+25,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+26,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+27,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+28,Operating Account,Recurrent,170,Airport insurance,Other Charges
+28,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+30,Operating Account,Recurrent,118,Provisions for institutions,Departmental Expenses
+30,Operating Account,Recurrent,193,Earnings scheme for persons in custody,Other Charges
+30,Capital Account,"Plant, Equipment and Works",603,"Plant, vehicles and equipment",Departmental Expenses
+30,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+31,Operating Account,Recurrent,103,Rewards and special services,Other Charges
+31,Operating Account,Recurrent,,Seizure management,Departmental Expenses
+31,Capital Account,"Plant, Equipment and Works",603,"Plant, vehicles and equipment",Departmental Expenses
+31,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+33,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+33,Capital Account,"Plant, Equipment and Works",603,"Plant, vehicles and equipment",Departmental Expenses
+33,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+37,Operating Account,Recurrent,3,Recoverable salaries and allowances (General),Personal Emoluments
+37,Operating Account,Recurrent,,Deduct reimbursement,Personal Emoluments
+37,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+37,Capital Account,"Plant, Equipment and Works",603,"Plant, vehicles and equipment",Departmental Expenses
+37,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+37,Capital Account,Subventions,974,"Subvented institutions - maintenance, repairs, and minor improvements (block vote)",Subventions
+37,Capital Account,Subventions,975,"Subvented institutions - minor plant, vehicles and equipment (block vote)",Subventions
+39,Capital Account,"Plant, Equipment and Works",603,"Plant, vehicles and equipment",Departmental Expenses
+39,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+42,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+42,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+42,Capital Account,"Plant, Equipment and Works",696,Energy saving projects in government buildings (block vote),Departmental Expenses
+44,Operating Account,Recurrent,297,Fees for operation of waste management facilities,Departmental Expenses
+44,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+44,Capital Account,"Plant, Equipment and Works",603,"Plant, vehicles and equipment",Departmental Expenses
+44,Capital Account,"Plant, Equipment and Works",605,Minor capital works (block vote),Departmental Expenses
+44,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+45,Capital Account,"Plant, Equipment and Works",603,"Plant, vehicles and equipment",Departmental Expenses
+45,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+45,Capital Account,"Plant, Equipment and Works",690,Town ambulances (block vote),Departmental Expenses
+46,Operating Account,Recurrent,1,Salaries,Personal Emoluments
+46,Operating Account,Recurrent,6,Recoverable salaries and allowances (Companies Registry Trading Fund),Personal Emoluments
+46,Operating Account,Recurrent,,Deduct reimbursement,Personal Emoluments
+46,Operating Account,Recurrent,8,Recoverable salaries and allowances (Hong Kong Monetary Authority),Personal Emoluments
+46,Operating Account,Recurrent,,Deduct reimbursement,Personal Emoluments
+46,Operating Account,Recurrent,9,Recoverable salaries and allowances (Land Registry Trading Fund),Personal Emoluments
+46,Operating Account,Recurrent,,Deduct reimbursement,Personal Emoluments
+46,Operating Account,Recurrent,81,Recoverable salaries and allowances (Office of the Communications Authority Trading Fund),Personal Emoluments
+46,Operating Account,Recurrent,,Deduct reimbursement,Personal Emoluments
+46,Operating Account,Recurrent,82,Recoverable salaries and allowances (Post Office Trading Fund),Personal Emoluments
+46,Operating Account,Recurrent,,Deduct reimbursement,Personal Emoluments
+46,Operating Account,Recurrent,83,Recoverable salaries and allowances (Electrical and Mechanical Services Trading Fund),Personal Emoluments
+46,Operating Account,Recurrent,,Deduct reimbursement,Personal Emoluments
+46,Operating Account,Recurrent,84,Recoverable salaries and allowances (Legal Aid Services Council),Personal Emoluments
+46,Operating Account,Recurrent,,Deduct reimbursement,Personal Emoluments
+46,Operating Account,Recurrent,10,Recruiting expenses,Personnel Related Expenses
+46,Operating Account,Recurrent,11,Civil service examinations,Personnel Related Expenses
+46,Operating Account,Recurrent,13,Personal allowances,Personal Emoluments
+46,Operating Account,Recurrent,14,Home purchase allowance,Personal Emoluments
+46,Operating Account,Recurrent,20,Payments to estates of deceased officers,Subventions
+46,Operating Account,Recurrent,22,Passages,Personal Emoluments
+46,Operating Account,Recurrent,23,Quartering,Personal Emoluments
+46,Operating Account,Recurrent,24,Staff relief and welfare,Personal Emoluments
+46,Operating Account,Recurrent,25,Long and Meritorious Service Travel Award Scheme,Personal Emoluments
+46,Operating Account,Recurrent,28,Legal assistance,Personal Emoluments
+46,Operating Account,Recurrent,32,Accommodation allowance,Personal Emoluments
+46,Operating Account,Recurrent,33,Home financing allowance,Personal Emoluments
+46,Operating Account,Recurrent,37,Pensioners' welfare fund,Personal Emoluments
+46,Operating Account,Recurrent,38,Private tenancy allowance,Personal Emoluments
+46,Operating Account,Recurrent,39,Rent allowance,Personal Emoluments
+46,Operating Account,Recurrent,40,Non-accountable cash allowance,Personal Emoluments
+46,Operating Account,Recurrent,41,Mandatory Provident Fund contribution,Personal Emoluments
+46,Operating Account,Recurrent,42,Civil Service Provident Fund contribution,Personal Emoluments
+47,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+47,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+48,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+49,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+49,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+51,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+53,Operating Account,Recurrent,3,Recoverable salaries and allowances (General),Personal Emoluments
+53,Operating Account,Recurrent,,Deduct reimbursement,Personal Emoluments
+53,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+53,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+53,Capital Account,Subventions,88J,Youth Hostel Scheme (block vote),Subventions
+59,Operating Account,Recurrent,3,Recoverable salaries and allowances (General),Personal Emoluments
+59,Operating Account,Recurrent,,Deduct reimbursement,Personal Emoluments
+59,Operating Account,Recurrent,224,Motor Insurers' Bureau - government contribution,Other Charges
+59,Operating Account,Recurrent,225,Traffic Accident Victims Assistance Scheme - levies,Subventions
+59,Operating Account,Recurrent,226,Allocated stores: local landing charges,Other Charges
+59,Operating Account,Recurrent,267,Unallocated stores: suspense account adjustment,Other Charges
+59,Capital Account,"Plant, Equipment and Works",603,"Plant, vehicles and equipment",Departmental Expenses
+59,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+59,Capital Account,"Plant, Equipment and Works",691,General purpose vehicles (block vote),Departmental Expenses
+60,Operating Account,Recurrent,272,Electricity for public lighting,Departmental Expenses
+60,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+60,Capital Account,"Plant, Equipment and Works",603,"Plant, vehicles and equipment",Departmental Expenses
+60,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+62,Operating Account,Recurrent,3,Recoverable salaries and allowances (General),Personal Emoluments
+62,Operating Account,Recurrent,,Deduct reimbursement,Personal Emoluments
+62,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+62,Capital Account,"Plant, Equipment and Works",,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+63,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+63,Capital Account,"Plant, Equipment and Works",654,Local public works (block vote),Departmental Expenses
+63,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+70,Operating Account,Recurrent,202,Repatriation expenses,Departmental Expenses
+70,Capital Account,"Plant, Equipment and Works",603,"Plant, vehicles and equipment",Departmental Expenses
+70,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+72,Operating Account,Recurrent,103,Rewards and special services,Other Charges
+72,Operating Account,Recurrent,203,"Expenses of witnesses, suspects and detainees",Other Charges
+72,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+72,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+74,Capital Account,"Plant, Equipment and Works",,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+76,Operating Account,Recurrent,189,Interest on tax reserve certificates,Other Charges
+76,Operating Account,Recurrent,209,Special legal expenses,Departmental Expenses
+80,Operating Account,Recurrent,206,Expenses of witnesses and jurors,Other Charges
+80,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+82,Operating Account,Recurrent,227,Payment for Land Registry/Companies Registry Trading Fund services,Departmental Expenses
+90,Operating Account,Recurrent,276,Implementation of the Reimbursement of Maternity Leave Pay Scheme,Other Charges
+90,Operating Account,Recurrent,280,Contribution to the Occupational Safety and Health Council,Other Charges
+90,Operating Account,Recurrent,295,Contribution to the Occupational Deafness Compensation Board,Other Charges
+90,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+91,Operating Account,Recurrent,3,Recoverable salaries and allowances (General),Personal Emoluments
+91,Operating Account,Recurrent,,Deduct reimbursement,Personal Emoluments
+91,Operating Account,Recurrent,221,Clearance of government land - ex-gratia allowances,Other Charges
+91,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+91,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+92,Operating Account,Recurrent,234,Court costs,Departmental Expenses
+92,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+92,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+94,Operating Account,Recurrent,208,Legal aid costs,Subventions
+95,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+95,Capital Account,"Plant, Equipment and Works",603,"Plant, vehicles and equipment",Departmental Expenses
+95,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+95,Capital Account,"Plant, Equipment and Works",677,Acquiring museum collections and commissioning art and cultural projects,Departmental Expenses
+95,Capital Account,Subventions,863,Non-government organisation camps (block vote),Subventions
+96,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+100,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+100,Capital Account,"Plant, Equipment and Works",603,"Plant, vehicles and equipment",Departmental Expenses
+100,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+106,Operating Account,Recurrent,251,Additional commitments,Other Charges
+106,Operating Account,Recurrent,284,Compensation,Other Charges
+106,Operating Account,Non-Recurrent,789,Additional commitments,Other Charges
+106,Operating Account,Non-Recurrent,825,Contribution to the 11th replenishment of theAsian Development Fund,Other Charges
+106,Operating Account,Non-Recurrent,826,Contribution to the 12th replenishment of the Asian Development Fund,Other Charges
+106,Operating Account,Non-Recurrent,827,Contribution to the 13th replenishment of the Asian Development Fund,Other Charges
+106,Capital Account,"Plant, Equipment and Works",689,Additional commitments,Departmental Expenses
+112,Operating Account,Recurrent,366,Remuneration and reimbursements for Members of the Legislative Council,Personal Emoluments
+112,Operating Account,Non-Recurrent,,General non-recurrent,Other Charges
+112,Capital Account,Subventions,872,Non-recurrent expenses reimbursements for Members of the Legislative Council,Subventions
+112,Capital Account,Subventions,885,Legislative Council Commission,Subventions
+116,Operating Account,Non-Recurrent,,General non-recurrent,Other Charges
+118,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+120,Operating Account,Recurrent,15,Public and judicial service pension benefits and compensation,Personal Emoluments
+120,Operating Account,Recurrent,16,Contract gratuities,Other Charges
+120,Operating Account,Recurrent,17,Surviving spouses¡¦ and children¡¦s pensions and widows¡¦ and orphans¡¦ pensions,Subventions
+120,Operating Account,Recurrent,18,"Volunteer and defence force pensions, allowances and grants",Personal Emoluments
+120,Operating Account,Recurrent,21,"Ex-gratia pensions, awards and allowances",Personal Emoluments
+120,Operating Account,Recurrent,26,"Employees' compensation, injury, incapacity and death related payments and expenses",Personal Emoluments
+122,Operating Account,Recurrent,103,Rewards and special services,Other Charges
+122,Operating Account,Recurrent,207,"Expenses of witnesses, prisoners and deportees",Other Charges
+122,Capital Account,"Plant, Equipment and Works",603,"Plant, vehicles and equipment",Departmental Expenses
+122,Capital Account,"Plant, Equipment and Works",614,"Alterations, additions and improvements to in-service Marine Police craft (block vote)",Departmental Expenses
+122,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+122,Capital Account,"Plant, Equipment and Works",695,Police specialised vehicles (block vote),Departmental Expenses
+132,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+132,Capital Account,"Plant, Equipment and Works",,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+132,Capital Account,Subventions,942,Hong Kong Academy for Performing Arts,Subventions
+132,Capital Account,Subventions,973,Hong Kong Academy for Performing Arts (block vote),Subventions
+135,Operating Account,Non-Recurrent,,General non-recurrent,Other Charges
+135,Capital Account,"Plant, Equipment and Works",697,TechConnect (block vote),Departmental Expenses
+137,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+137,Capital Account,"Plant, Equipment and Works",,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+138,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+140,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+140,Capital Account,Subventions,899,"Prince Philip Dental Hospital - minor plant, vehicles, equipment, maintenance, and improvement (block vote)",Subventions
+140,Capital Account,Subventions,979,Hospital Authority - equipment and information systems (block vote),Subventions
+141,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+141,Capital Account,Subventions,864,Shine Skills Centres (block vote),Subventions
+142,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+144,Capital Account,Subventions,88B,"Office of the Privacy Commissioner for Personal Data - minor plant, vehicles and equipment (block vote)",Subventions
+144,Capital Account,Subventions,,"Equal Opportunities Commission - minor plant, vehicles and equipment (block vote)",Subventions
+147,Operating Account,Recurrent,281,Air passenger departure tax administration fees,Departmental Expenses
+147,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+148,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+151,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+151,Capital Account,"Plant, Equipment and Works",,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+152,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+152,Capital Account,Subventions,955,Consumer Council,Subventions
+152,Capital Account,Subventions,970,Consumer Council (block vote),Subventions
+152,Capital Account,Subventions,,Hong Kong Trade Development Council,Subventions
+155,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+155,Capital Account,"Plant, Equipment and Works",603,"Plant, vehicles and equipment",Departmental Expenses
+155,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+156,Operating Account,Recurrent,3,Recoverable salaries and allowances (General),Personal Emoluments
+156,Operating Account,Recurrent,,Deduct reimbursement,Personal Emoluments
+156,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+156,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+156,Capital Account,Subventions,871,Vocational Training Council,Subventions
+156,Capital Account,Subventions,898,Codes of Aid for existing schools - furniture and equipment (block vote),Subventions
+156,Capital Account,Subventions,900,"Codes of Aid for existing schools - maintenance, repairs and minor improvement (block vote)",Subventions
+156,Capital Account,Subventions,976,Vocational Training Council (block vote),Subventions
+158,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+158,Capital Account,"Plant, Equipment and Works",,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+159,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+159,Capital Account,"Plant, Equipment and Works",600,Works,Departmental Expenses
+159,Capital Account,"Plant, Equipment and Works",653,Restoration of historic buildings (block vote),Departmental Expenses
+159,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+159,Capital Account,"Plant, Equipment and Works",694,Archaeological excavations (block vote),Departmental Expenses
+160,Capital Account,"Plant, Equipment and Works",603,"Plant, vehicles and equipment",Departmental Expenses
+160,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+162,Capital Account,"Plant, Equipment and Works",,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+166,Operating Account,Recurrent,200,Insurance of aircraft,Other Charges
+166,Capital Account,"Plant, Equipment and Works",603,"Plant, vehicles and equipment",Departmental Expenses
+166,Capital Account,"Plant, Equipment and Works",631,"Aircraft components, component overhaul and safety equipment (block vote)",Departmental Expenses
+166,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+168,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+170,Operating Account,Recurrent,3,Recoverable salaries and allowances (General),Personal Emoluments
+170,Operating Account,Recurrent,,Deduct reimbursement,Personal Emoluments
+170,Operating Account,Recurrent,157,Assistance for patients and their families,Subventions
+170,Operating Account,Recurrent,176,Criminal and law enforcement injuries compensation,Subventions
+170,Operating Account,Recurrent,177,Emergency relief,Subventions
+170,Operating Account,Recurrent,179,Comprehensive social security assistance scheme,Subventions
+170,Operating Account,Recurrent,180,Social security allowance scheme,Subventions
+170,Operating Account,Recurrent,184,Traffic accident victims assistance scheme,Subventions
+170,Operating Account,Recurrent,187,Agents' commission and expenses,Personal Emoluments
+170,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+170,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+173,Operating Account,Recurrent,199,Working family allowance,Subventions
+173,Operating Account,Recurrent,228,Student financial assistance,Subventions
+173,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+180,Capital Account,"Plant, Equipment and Works",,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+181,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+184,Capital Account,Transfers to Funds,990,Payment to the Disaster Relief Fund,Other Charges
+184,Capital Account,Transfers to Funds,992,Payment to the Innovation and Technology Fund,Innovation and Technology Fund
+186,Operating Account,Recurrent,166,Government Public Transport Fare Concession Scheme for the Elderly and Eligible Persons with Disabilities,Subventions
+186,Operating Account,Recurrent,256,Public Transport Fare Subsidy Scheme,Subventions
+186,Operating Account,Recurrent,260,Provision of Special Helping Measures for Outlying Island Ferry Routes,Other Charges
+186,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+186,Capital Account,"Plant, Equipment and Works",603,"Plant, vehicles and equipment",Departmental Expenses
+186,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
+186,Capital Account,Subventions,927,Rehabus services (block vote),Subventions
+188,Operating Account,Recurrent,3,Recoverable salaries and allowances (General),Personal Emoluments
+188,Operating Account,Recurrent,,Deduct reimbursement,Personal Emoluments
+188,Operating Account,Recurrent,187,Agents' commission and expenses,Personal Emoluments
+190,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+194,Operating Account,Recurrent,223,Purchase of water,Departmental Expenses
+194,Operating Account,Non-Recurrent,700,General non-recurrent,Other Charges
+194,Capital Account,"Plant, Equipment and Works",603,"Plant, vehicles and equipment",Departmental Expenses
+194,Capital Account,"Plant, Equipment and Works",661,"Minor plant, vehicles and equipment (block vote)",Departmental Expenses
