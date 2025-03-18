@@ -1,4 +1,6 @@
 estimates-2025-chi/
 estimates-2025-eng/
+*.html
+*.png
 .DS_Store
 .Rhistory
